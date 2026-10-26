@@ -4,7 +4,7 @@
 
 The MATLAB code, the case matrices and the result tables that support the findings of
 this study are openly available in the repository recorded on Zenodo at
-https://doi.org/[DOI TO BE INSERTED].
+https://doi.org/10.5281/zenodo.23657072.
 
 ## Attribution for the derived network data
 
