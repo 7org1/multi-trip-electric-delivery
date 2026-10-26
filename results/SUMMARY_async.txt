@@ -1,0 +1,8 @@
+per-vehicle decision epochs, budget 60 s per call, capacity 800
+
+method    calls   trips    served  distance  makespan     late
+CBLNS      32.0    25.0    0.7368    1277.0     19.69      0.0
+ALNS       32.0    25.0    0.7368    1277.0     19.69      0.0
+VNS        32.0    25.0    0.7368    1277.0     19.69      0.0
+Tabu       32.0    25.0    0.7368    1277.0     19.69      0.0
+GA         39.3    31.3    0.9413    1197.1     18.25      0.0

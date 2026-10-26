@@ -1,0 +1,7 @@
+four baselines, current code, fleet 6, capacity 1200, budget 20 s
+
+method    trips       dist    dist_sd       obj    obj_sd     best    worst
+ALNS      21.00     1044.0        8.9    2094.0       8.9   2081.5   2104.7
+VNS       21.00     1051.4       19.1    2101.4      19.1   2074.9   2126.7
+Tabu      21.40     1085.2        8.5    2155.2      31.9   2126.5   2197.4
+GA        21.80     1075.9       24.8    2165.9      32.7   2127.7   2217.0

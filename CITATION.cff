@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the article below."
+title: "Multi-Trip Autonomous Electric Delivery on Real Time-Dependent Networks: A Congestion-Aware Adaptive Large Neighbourhood Search"
+abstract: "Model, search, case and results for multi-trip autonomous electric delivery on a real time-dependent road network."
+type: software
+version: 1.0.0
+date-released: 2026-10-26
+license: MIT
+authors:
+  - family-names: Sun
+    given-names: Zhe
+    affiliation: "Nanjing University of Posts and Telecommunications"
+  - family-names: Zhou
+    given-names: Chengyang
+    affiliation: "Nanjing University of Posts and Telecommunications"
+    orcid: "https://orcid.org/0009-0005-7672-1327"
+  - family-names: Bi
+    given-names: Yunrui
+    affiliation: "Nanjing Institute of Technology"
+  - family-names: Sun
+    given-names: Zhixin
+    affiliation: "Nanjing University of Posts and Telecommunications"
+keywords:
+  - multi-trip vehicle routing
+  - time-dependent travel times
+  - autonomous electric delivery vehicles
+  - adaptive large neighbourhood search
+  - contextual bandit

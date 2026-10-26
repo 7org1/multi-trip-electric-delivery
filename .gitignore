@@ -1,0 +1,10 @@
+*.asv
+*.m~
+*.autosave
+slprj/
+*.slxc
+Thumbs.db
+.DS_Store
+*.aux
+*.log
+!results/SUMMARY_*.txt

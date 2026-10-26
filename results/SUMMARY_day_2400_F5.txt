@@ -1,0 +1,8 @@
+whole-day solve, fleet 5, capacity 2400, budget 20 s
+
+method    trips  distance objective feasible
+CBLNS     11.00     592.0    1142.0      1.0
+ALNS      11.00     595.1    1145.1      1.0
+VNS       11.00     589.7    1139.7      1.0
+Tabu      11.00     600.5    1150.5      1.0
+GA        11.00     602.2    1152.2      1.0
